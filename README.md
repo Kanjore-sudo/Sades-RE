@@ -11,7 +11,7 @@ SADES is a reimplementation of the SADES visual-novel engine (NEC PC-9801) by
 CP/You / Ankoku Baitai Softwares. This project reads the original game data
 files and runs them on modern systems without an emulator.
 
-Quick links
+Quick points
 
 - What it plays
 - Features
