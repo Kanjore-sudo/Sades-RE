@@ -1,9 +1,10 @@
 # SADES Engine — a reimplementation
 
-[English](#sades-engine--a-reimplementation) · [日本語](#sadesエンジン--再実装)
+[English](#english) · [日本語](#japanese)
 
 ---
 
+<a id="english"></a>
 ## English
 
 Back in 1990, a small Japanese studio called **Ankoku Baitai Softwares**
@@ -201,7 +202,8 @@ MIT. See LICENSE.
 
 ---
 
-日本語
+<a id="japanese"></a>
+## 日本語
 
 English · 日本語
 
