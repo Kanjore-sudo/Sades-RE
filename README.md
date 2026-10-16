@@ -142,7 +142,6 @@ folder.
 
 ### Missing / planned
 
-- Palette fade between scenes (hardware palette fade used in some games)
 - Save/load (original games were designed for one sitting; unlikely to add)
 - Audio (none — original engine had no sound)
 
