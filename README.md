@@ -27,8 +27,8 @@ Quick points
 | Game | Year | Engine | Status |
 |------|------|--------|--------|
 | ゆこにすの森で.... (Yukonis no Mori de....) | 1990 | v1.1 | Playable end-to-end |
-| SD Sadistic Gamers | 1990 | v1.2/v1.5 | Playable end-to-end |
-| Erion Quest | 1993 | v1.2/v1.5 | Playable end-to-end |
+| SD Sadistic Gamers | 1990 | v1.5 | Playable end-to-end |
+| Erion Quest | 1993 | v1.5 | Playable end-to-end |
 
 All three games pass the headless regression tests with zero unknown opcodes.
 
